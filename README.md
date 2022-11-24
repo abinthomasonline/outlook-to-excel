@@ -15,5 +15,6 @@ Update the config.json & implement parsing functions in `email_parser` module
 
 Run the script
 
+    cd src/
     python main.py
 
