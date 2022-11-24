@@ -3,7 +3,7 @@
   "username": "email@example.com",
   "password": "P@ssw0rd",
   "from_emails": [
-    {"email": "jack.smith@brocker99.com", "parser_func": "brocker_parser"},
+    {"email": "jane.doe@brocker123.com", "parser_func": "brocker_parser"},
     {"email": "no-reply@newhome.ch", "parser_func": "newhome_parser"},
   ],
   "output_path": "records.xlsx"
